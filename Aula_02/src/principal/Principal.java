@@ -1,4 +1,5 @@
 package principal;
+//
 
 import java.util.Scanner;
 
@@ -12,7 +13,7 @@ public class Principal {
 		try{
 		Scanner teclado = new Scanner(System.in);
 		
-		// É O OBJETO Contato obj = new Contato();
+		// Ã‰ O OBJETO Contato obj = new Contato();
 		Contato obj = new Contato();
 		
 		System.out.println("Digite o nome: ");
@@ -21,7 +22,7 @@ public class Principal {
 		System.out.println("Digite o CPF: ");
 		obj.setCpf(teclado.nextLine());
 		
-		System.out.println("Digite o endereço: ");
+		System.out.println("Digite o endereÃ§o: ");
 		obj.setEndereco(teclado.nextLine());
 		
 		System.out.println("Digite o telefone: ");
