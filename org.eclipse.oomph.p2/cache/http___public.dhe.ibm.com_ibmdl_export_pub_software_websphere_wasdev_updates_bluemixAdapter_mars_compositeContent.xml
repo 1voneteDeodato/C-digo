@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?compositeMetadataRepository version='1.0.0'?>
+<repository name='Cloud Tools WTP Adapter' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1'>
+  <properties size='1'>
+    <property name='p2.timestamp' value='1456963223428'/>
+  </properties>
+  <children size='4'>
+    <child location='repository'/>
+    <child location='http://download.eclipse.org/cft/1.0.M3/'/>
+    <child location='http://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/updates/wamt/amt/'/>
+    <child location='http://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/updates/wdt/wlibertytools4bmt/v106/'/>
+  </children>
+</repository>

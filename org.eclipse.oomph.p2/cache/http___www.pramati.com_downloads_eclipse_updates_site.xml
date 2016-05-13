@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description>
+      Pramati Eclipse Update Site
+   </description>
+   <feature url="features/com.pramati.eclipse.feature_1.0.1.jar" id="com.pramati.eclipse.feature" version="1.0.1">
+      <category name="Pramati Server Adapter"/>
+   </feature>
+   <feature url="features/com.pramati.eclipse.feature_2.0.0.jar" id="com.pramati.eclipse.feature" version="2.0.0">
+      <category name="Pramati Server Adapter"/>
+   </feature>
+   <feature url="features/com.pramati.eclipse.feature_2.1.0.jar" id="com.pramati.eclipse.feature" version="2.1.0">
+      <category name="Pramati Server Adapter"/>
+   </feature>
+      <feature url="features/com.pramati.eclipse.feature_2.2.0.jar" id="com.pramati.eclipse.feature" version="2.2.0">
+      <category name="Pramati Server Adapter"/>
+   </feature>
+   <category-def name="Pramati Server Adapter" label="Pramati Server Adapter"/>
+</site>
